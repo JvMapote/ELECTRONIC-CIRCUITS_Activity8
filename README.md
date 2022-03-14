@@ -1,0 +1,2 @@
+# ELECTRONIC-CIRCUITS_Activity8
+ JFET Amplifier
